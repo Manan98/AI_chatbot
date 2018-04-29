@@ -15,9 +15,9 @@ L13 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ 18 months
 L14 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ How many long was Lincoln's formal education?
 L15 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ 18 months.
 L16 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ When did Lincoln begin his political career?
-L17 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++
+L17 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ NULL
 L18 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ When did Lincoln begin his political career?
-L19 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++
+L19 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ NULL
 L20 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ What did The Legal Tender Act of 1862 establish?
 L21 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ the United States Note, the first paper currency in United States history
 L22 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ What did The Legal Tender Act of 1862 establish?
@@ -27,9 +27,9 @@ L25 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ 11-year-old Grace Bedell
 L26 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Who suggested Lincoln grow a beard?
 L27 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ Grace Bedell.
 L28 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ When did the Gettysburg address argue that America was born?
-L29 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++
+L29 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ NULL
 L30 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ When did the Gettysburg address argue that America was born?
-L31 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++
+L31 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ NULL
 L32 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Did Lincoln beat John C. Breckinridge in the 1860 election?
 L33 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ yes
 L34 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Did Lincoln beat John C. Breckinridge in the 1860 election?
@@ -89,7 +89,7 @@ L87 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ seven
 L88 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ When was the first photgraph of lincoln taken?
 L89 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ NULL
 L90 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ When was the first photgraph of lincoln taken?
-L91 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++
+L91 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ NULL
 L92 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ How long was Lincoln's legal Career?
 L93 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ NULL
 L94 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ How long was Lincoln's legal Career?
@@ -124,17 +124,17 @@ L122 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Is Volta buried in the city of
 L123 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ NULL
 L124 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Is the electrolyte sulphuric acid?
 L125 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ NULL
-L126 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ 
+L126 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ NULL
 L127 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ NULL
-L128 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ 
+L128 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ NULL
 L129 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ NULL
-L130 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ 
+L130 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ NULL
 L131 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ NULL
 L132 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ NOTTTT  FOUND
 L133 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ NULL
-L134 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ 
+L134 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ NULL
 L135 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ NULL
-L136 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ 
+L136 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ NULL
 L137 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ NULL
 L138 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Are Count Volta 's original instruments and papers on display there ?
 L139 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ NULL
@@ -171,13 +171,13 @@ L169 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ blah
 L170 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Who graduated in ecclesiastical law at the early age of 20 and began to practice?
 L171 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ NULL
 L172 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ When did he publish another memoria?
-L173 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++
+L173 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ NULL
 L174 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ When did he publish another memoria?
 L175 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ NULL
 L176 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ When did he publish another memoria?
 L177 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ NULL
 L178 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ When did he become a professor?
-L179 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++
+L179 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ NULL
 L180 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ When did he become a professor?
 L181 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ NULL
 L182 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ When did he become a professor?
@@ -206,17 +206,17 @@ L204 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Is he most noted for his contr
 L205 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ NULL
 L206 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Is he most noted for his contributions to the theory of molarity and molecular weight?
 L207 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ NULL
-L208 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ 
+L208 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ NULL
 L209 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ NULL
-L210 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ 
+L210 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ NULL
 L211 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ NULL
-L212 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ 
+L212 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ NULL
 L213 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ NULL
-L214 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ 
+L214 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ NULL
 L215 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ NULL
-L216 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ 
+L216 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ NULL
 L217 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ NULL
-L218 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ 
+L218 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ NULL
 L219 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ NULL
 L220 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Who confirm that he sponsored and helped some Sardinian plotters who were organising a revolution in that island , stopped at the very last moment by the concession of Charles Albert 's statute ?
 L221 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ NULL
@@ -265,11 +265,11 @@ L263 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ yes
 L264 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Can the title of this famous 1811 paper be roughly translated into english?
 L265 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ NULL
 L266 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Can the title of this famous 1811 paper be roughly translated into english?
-L267 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++
+L267 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ NULL
 L268 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ What happened in french?
 L269 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ NULL
 L270 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ What happened in french?
-L271 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++
+L271 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ NULL
 L272 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ What happened in 1833?
 L273 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ Avogadro had been recalled to Turin university
 L274 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ What happened in 1833?
@@ -281,7 +281,7 @@ L279 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ Anders Celsius
 L280 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ What is named after him?
 L281 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ The Celsius crater on the Moon
 L282 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ When did he publish a collection?
-L283 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++
+L283 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ NULL
 L284 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Is it true that he published a collection in 1738?
 L285 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ No
 L286 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Is it true that thermometer had 100 for the freezing point?
@@ -359,7 +359,7 @@ L357 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ yes
 L358 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Are beetles endopterygotes?
 L359 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ yes
 L360 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ How many species of beetles are there?
-L361 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++
+L361 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ NULL
 L362 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ How many species of beetles are there?
 L363 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ about 350,000
 L364 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ When are sperm cells transferred to the female?
@@ -423,7 +423,7 @@ L421 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ upon graduating from college
 L422 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ When did he drop John from his name?
 L423 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ Upon graduating from college
 L424 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ When did Coolidge meet and marry Grace Anna Goodhue?
-L425 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++
+L425 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ NULL
 L426 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ When did Coolidge meet and marry Grace Anna Goodhue?
 L427 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ In 1905
 L428 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ What period of rapid economic growth did the United States experience during Coolidge's presidency?
@@ -489,9 +489,9 @@ L487 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ Yes
 L488 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Did Coolidge meet and marry Grace Anna Goodhue?
 L489 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ yes
 L490 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ What year did Coolidge open his own law office?
-L491 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++
+L491 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ NULL
 L492 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ What year did Coolidge open his own law office?
-L493 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++
+L493 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ NULL
 L494 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ What fraternity was Coolidge a member of?
 L495 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ Phi Gamma Delta
 L496 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ What fraternity was Coolidge a member of?
@@ -544,9 +544,9 @@ L542 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ The Republicans retained what?
 L543 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ NULL
 L544 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ (NNP Harding #)(NNP Death )))(PP (IN in )(NP (NP (NN office ))(PP (IN for )(NP (DT a )(JJ full )(NN description )(NNP Vice )(NNP President )(person (NNP Coolidge ))))))))(VP (VP (VBD was )(VP (VBG visiting )(NP (PRP$ his )(NN family )(NN home ))))(, , )(SBAR (WHNP (WDT which ))(S (VP (VBD did )(RB not )(VP (VB have )(NP (NP (NN electricity ))(CC or )(NP (DT a )(NN telephone )))(, , )(PP (IN in )(NP (location (NNP Vermont ))))(SBAR (WHADVP (WRB when ))(S (NP (PRP he ))(VP (VBD received )(NP (NP (NN word ))(PP (IN of )(NP (NP (NNP Harding )(POS 's ))(NN death ))))))))))))))(. . )))
 L545 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ NULL
-L546 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ 
+L546 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ NULL
 L547 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ NULL
-L548 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ 
+L548 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ NULL
 L549 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ NULL
 L550 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Was 364 Stone later appointed Chief Justice by President Franklin D. Roosevelt ?
 L551 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ NULL
@@ -607,9 +607,9 @@ L605 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ Canada has played a leading r
 L606 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ How has Canada helped UN peacekeeping efforts?
 L607 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ NULL
 L608 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ What percentage of the population don't speak English or French at home?
-L609 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++
+L609 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ NULL
 L610 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ What percentage of the population don't speak English or French at home?
-L611 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++
+L611 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ NULL
 L612 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ What percentage of the population don't speak English or French at home?
 L613 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ NULL
 L614 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Is Canada bilingual?
@@ -645,13 +645,13 @@ L643 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ According to 2001 census, 77.
 L644 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ What is the largest religious group in Canada?
 L645 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ Christian
 L646 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ When did Canada have one of the largest armed forces in the world?
-L647 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++
+L647 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ NULL
 L648 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ When did Canada have one of the largest armed forces in the world?
 L649 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ World War II.
 L650 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ What have been inhabited for millennia by aboriginal peoples?
 L651 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ The lands
 L652 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ European books and maps began referring to this region as Canada in what year?
-L653 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++
+L653 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ NULL
 L654 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ What was Canada's most important industry until the 1800s?
 L655 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ The fur trade
 L656 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Is it true that it angered many residents of the thirteen colonies?
@@ -797,9 +797,9 @@ L795 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ yes
 L796 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Does Egypt have political influence in the Middle East?
 L797 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ Yes
 L798 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ When was the Six Day War?
-L799 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++
+L799 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ NULL
 L800 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ When was the Six Day War?
-L801 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++
+L801 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ NULL
 L802 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ What religions has Egypt outlawed?
 L803 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ All but Christianity, Islam, and Judaism
 L804 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ What religions has Egypt outlawed?
@@ -867,7 +867,7 @@ L865 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ yes
 L866 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Are elephants good swimmers?
 L867 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ yes
 L868 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ How many living species of African Elephants are there?
-L869 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++
+L869 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ NULL
 L870 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ How many living species of African Elephants are there?
 L871 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ The African Elephant genus contains two (or, arguably, three) living species.
 L872 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ How long may elephants live?
@@ -879,7 +879,7 @@ L877 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ it refers literally to elepha
 L878 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Why does the phrase 'elephants never forget' have no metaphorical meaning?
 L879 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ Because it refers literally to elephants supposedly having an excellent memory.
 L880 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ How many living species of Asian Elephants are there?
-L881 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++
+L881 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ NULL
 L882 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ How many living species of Asian Elephants are there?
 L883 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ one
 L884 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ How much do elephants weight at birth?
@@ -937,7 +937,7 @@ L935 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ Yes
 L936 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Do they prefer forested areas?
 L937 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ Yes
 L938 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ What is the world population of Asian elephants?
-L939 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++
+L939 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ NULL
 L940 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ What is the world population of Asian elephants?
 L941 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ The world population of Asian elephants â€“ also called Indian Elephants or Elephas maximus â€“ is estimated to be around 60,000
 L942 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ What part of an elephant is very important for temperature regulation?
@@ -981,9 +981,9 @@ L979 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ 75 years
 L980 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ What is the life expectancy for men in Finland?
 L981 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ 75 years
 L982 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ In what year were the "Games of the XV Olympiad" held?
-L983 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++
+L983 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ NULL
 L984 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ In what year were the "Games of the XV Olympiad" held?
-L985 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++
+L985 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ NULL
 L986 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ What body of water lies to the south of Finland?
 L987 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ the Gulf of Finland
 L988 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ What body of water lies to the south of Finland?
@@ -1173,7 +1173,7 @@ L1171 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ Michigan's 5th congressional
 L1172 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ What district was Ford elected from?
 L1173 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ Michigan's 5th congressional district
 L1174 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ How many Eagle Scouts were involved in Ford's funeral procession?
-L1175 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++
+L1175 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ NULL
 L1176 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ How many Eagle Scouts were involved in Ford's funeral procession?
 L1177 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ About 400
 L1178 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Which future Heisman Trophy winner did Ford tackle?
@@ -1221,13 +1221,13 @@ L1219 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ No
 L1220 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Did the Dutch build the Elmina Castle?
 L1221 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ no
 L1222 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ When did Ghana achieve independence from the United Kingdom?
-L1223 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++
+L1223 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ NULL
 L1224 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ When did Ghana achieve independence from the United Kingdom?
-L1225 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++
+L1225 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ NULL
 L1226 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ How many regions is Ghana divided into?
-L1227 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++
+L1227 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ NULL
 L1228 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ How many regions is Ghana divided into?
-L1229 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++
+L1229 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ NULL
 L1230 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Who is the head of state of Ghana?
 L1231 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ President John Agyekum Kofuor
 L1232 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Who is the head of state of Ghana?
@@ -1296,9 +1296,9 @@ L1294 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Is Medieval Ghana (4th- 13th 
 L1295 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ NULL
 L1296 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ What was on March?
 L1297 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ NULL
-L1298 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ 
+L1298 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ NULL
 L1299 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ NULL
-L1300 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ 
+L1300 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ NULL
 L1301 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ NULL
 L1302 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ The coastline is what?
 L1303 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ NULL
@@ -1447,11 +1447,11 @@ L1445 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ Yes.
 L1446 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ When was he elected sheriff of Erire County, New York?
 L1447 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ Yes.
 L1448 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ When was he elected sheriff of Erire County, New York?
-L1449 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++
+L1449 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ NULL
 L1450 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ When did he die?
 L1451 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ June 24 1908
 L1452 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ When did he die?
-L1453 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++
+L1453 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ NULL
 L1454 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Which election did Grover Cleveland win?
 L1455 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ 1884 and 1892 presidential elections
 L1456 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Who were Grover Cleveland's parents?
@@ -1459,7 +1459,7 @@ L1457 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ Cleveland was born in Caldwe
 L1458 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Who were Grover Cleveland's parents?
 L1459 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ Reverend Richard Cleveland and Anne Neal.
 L1460 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ How many children did Grover Cleveland have?
-L1461 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++
+L1461 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ NULL
 L1462 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ How many children did Grover Cleveland have?
 L1463 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ Six.
 L1464 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Who lost control of his party to the agrarians and silverites in 1896?
@@ -1487,7 +1487,7 @@ L1485 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ yes
 L1486 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Is it true that he shared the nobel prize in physics?
 L1487 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ yes
 L1488 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ When did he marry louise dÃ©sirÃ©e lorieux?
-L1489 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++
+L1489 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ NULL
 L1490 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Was Becquerel elected Permanent Secretary of the AcadÃ©mie des Sciences?
 L1491 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ yes
 L1492 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Was Becquerel born in Paris into a family which, including he and his son Jean, produced four generations of scientists?
@@ -1517,9 +1517,9 @@ L1515 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ yes
 L1516 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Did the Japanese invasion and subsequent occupation during WWII end Dutch rule?
 L1517 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ Yes
 L1518 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ In what year did East Timor secede from Indonesia?
-L1519 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++
+L1519 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ NULL
 L1520 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ In what year did East Timor secede from Indonesia?
-L1521 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++
+L1521 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ NULL
 L1522 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ When did Islam become the dominant religion in Java and Sumatra?
 L1523 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ the end of the 16th century
 L1524 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ When did Islam become the dominant religion in Java and Sumatra?
@@ -1596,9 +1596,9 @@ L1594 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ What quartered on March?
 L1595 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ NULL
 L1596 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ NOTTTT  FOUND
 L1597 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ NULL
-L1598 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ 
+L1598 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ NULL
 L1599 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ NULL
-L1600 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ 
+L1600 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ NULL
 L1601 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ NULL
 L1602 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Were the two in a dispute over optical discoveries at the time ?
 L1603 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ NULL
@@ -1627,9 +1627,9 @@ L1625 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ James
 L1626 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ What is the first word on the page?
 L1627 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ James_Monroe
 L1628 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ What is the first number on the page?
-L1629 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++
+L1629 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ NULL
 L1630 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ What is the first number on the page?
-L1631 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++
+L1631 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ NULL
 L1632 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ When did Monroe's presidency expired?
 L1633 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ March 4, 1825
 L1634 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ When did Monroe's presidency expired?
@@ -1691,7 +1691,7 @@ L1689 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ George Washington
 L1690 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Who was John Monroe standing behind in the painting of  Washington Crossing the Delaware?
 L1691 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ George Washington
 L1692 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ When was James Monroe appointed to Secretary of War?
-L1693 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++
+L1693 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ NULL
 L1694 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ When was James Monroe appointed to Secretary of War?
 L1695 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ NULL
 L1696 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ When did James Monroe die?
@@ -1699,7 +1699,7 @@ L1697 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ July 4, 1831
 L1698 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ When did James Monroe die?
 L1699 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ NULL
 L1700 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ When did James Monroe graduate from William and Mary?
-L1701 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++
+L1701 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ NULL
 L1702 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ When did James Monroe graduate from William and Mary?
 L1703 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ NULL
 L1704 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ When was James Monroe elected president?
@@ -1777,9 +1777,9 @@ L1775 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ Yes.
 L1776 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Was Adams an opponent of the Stamp Act?
 L1777 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ yes
 L1778 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ When did Adams graduate from college?
-L1779 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++
+L1779 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ NULL
 L1780 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ When did Adams graduate from college?
-L1781 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++
+L1781 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ NULL
 L1782 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Who was on the committee with Adams to draft  a Declaration of Independence?
 L1783 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ Thomas Jefferson, Benjamin Franklin, Robert R. Livingston and Roger Sherman.
 L1784 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Who was on the committee with Adams to draft  a Declaration of Independence?
@@ -1905,9 +1905,9 @@ L1903 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ 4.6 years
 L1904 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ What is the average life expectancy of a kangaroo?
 L1905 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ about 4.6 years
 L1906 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ When did the first official report of kangaroo blindness take place?
-L1907 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++
+L1907 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ NULL
 L1908 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ When did the first official report of kangaroo blindness take place?
-L1909 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++
+L1909 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ NULL
 L1910 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ What are vehicles that frequent isolated roads often fitted with?
 L1911 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ roo bars
 L1912 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ What are vehicles that frequent isolated roads often fitted with?
@@ -2113,13 +2113,13 @@ L2111 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ Yes
 L2112 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Was Liechtenstein part of the ancient Roman province of Raetia?
 L2113 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ Yes
 L2114 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ When was the first factory opened?
-L2115 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++
+L2115 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ NULL
 L2116 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ When was the first factory opened?
-L2117 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++
+L2117 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ NULL
 L2118 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ How many municipalities is Liechtenstein divided into?
-L2119 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++
+L2119 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ NULL
 L2120 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ How many municipalities is Liechtenstein divided into?
-L2121 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++
+L2121 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ NULL
 L2122 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ What is the national currency of Liechtenstein?
 L2123 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ Swiss franc
 L2124 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ What is the national currency of Liechtenstein?
@@ -2133,7 +2133,7 @@ L2131 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ Austrian Federal Railways
 L2132 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ What percentage of Liechtenstein's population is foreign-born?
 L2133 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ two-thirds
 L2134 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ What percentage of Liechtenstein's population is foreign-born?
-L2135 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++
+L2135 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ NULL
 L2136 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Is there an airport in Liechtenstein?
 L2137 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ No.
 L2138 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Is there an airport in Liechtenstein?
@@ -2153,7 +2153,7 @@ L2151 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ No
 L2152 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ When was Liechtenstein's current constitution adopted?
 L2153 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ October 1921.
 L2154 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ When was Liechtenstein's current constitution adopted?
-L2155 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++
+L2155 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ NULL
 L2156 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ What is the official language of Liechtenstein?
 L2157 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ German.
 L2158 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ What is the official language of Liechtenstein?
@@ -2167,13 +2167,13 @@ L2165 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ Raetia.
 L2166 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ What Roman province was Liechtenstein part of?
 L2167 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ Raetia
 L2168 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ How many municipalities are within Oberland?
-L2169 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++
+L2169 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ NULL
 L2170 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ How many municipalities are within Oberland?
-L2171 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++
+L2171 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ NULL
 L2172 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ What is the smallest German-speaking country in the world?
 L2173 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ Liechtenstein
 L2174 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ The Savings and Loans Bank was founded, as was the first cotton-weaving mill in what year?
-L2175 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++
+L2175 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ NULL
 L2176 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ What enjoys one of the world's highest standards of living?
 L2177 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ Liechtenstein's population
 L2178 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Does the state court rule on the conformity of laws?
@@ -2295,7 +2295,7 @@ L2293 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ NULL
 L2294 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Who was first apprenticed to a fuller to learn the cloth-making trade?
 L2295 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ millard fillmore
 L2296 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ He founded the private university of buffalo on what date?
-L2297 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++
+L2297 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ NULL
 L2298 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Who or what fell in love with abigail powers?
 L2299 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ millard fillmore
 L2300 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Was Fillmore one of the founders of the University of Buffalo?
@@ -2333,9 +2333,9 @@ L2331 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ no
 L2332 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Does the giant otter inhabit South Africa?
 L2333 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ No
 L2334 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ How many species of otter are there?
-L2335 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++
+L2335 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ NULL
 L2336 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ How many species of otter are there?
-L2337 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++
+L2337 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ NULL
 L2338 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ What do river otters eat?
 L2339 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ a variety of fish and shellfish, as well as small land mammals and birds
 L2340 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ What do river otters eat?
@@ -2655,7 +2655,7 @@ L2653 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ yes
 L2654 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ When did Qatar become an independent state?
 L2655 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ September 3, 1971.
 L2656 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ When did Qatar become an independent state?
-L2657 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++
+L2657 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ NULL
 L2658 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Where is Qatar's telecommunication system centered?
 L2659 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ Doha.
 L2660 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Where is Qatar's telecommunication system centered?
@@ -2721,7 +2721,7 @@ L2719 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ Yes.
 L2720 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Is the president elected by popular vote?
 L2721 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ yes
 L2722 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ How many counties is Romania divided into?
-L2723 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++
+L2723 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ NULL
 L2724 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ How many counties is Romania divided into?
 L2725 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ forty-one
 L2726 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ What is the highest mountain in Romania?
@@ -2739,9 +2739,9 @@ L2737 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ No.
 L2738 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Are there many Roma in Romania?
 L2739 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ no
 L2740 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ How many territories joined to form Romania?
-L2741 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++
+L2741 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ NULL
 L2742 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ How many territories joined to form Romania?
-L2743 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++
+L2743 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ NULL
 L2744 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Does Romania share a border with Ukraine?
 L2745 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ yes
 L2746 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Does Romania share a border with Ukraine?
@@ -2777,7 +2777,7 @@ L2775 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ it received a Soviet ultimat
 L2776 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Why wasn't Romania neutral during World War II?
 L2777 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ The Soviets threatened invasion.
 L2778 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Sibiu, a large city in Transylvania, was chosen as European Capital of Culture in what year?
-L2779 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++
+L2779 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ NULL
 L2780 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ What are approximately 42,000 years old and have been nicknamed`` John of Anina''?
 L2781 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ the remains (the lower jaw) of the oldest modern human
 L2782 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Is it true that romania has a population of 21,698,181?
@@ -2790,9 +2790,9 @@ L2788 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Is Romania a secular state?
 L2789 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ Yes
 L2790 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Is Romania a semi-presidential unitary state?
 L2791 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ Yes
-L2792 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ 
+L2792 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ NULL
 L2793 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ NULL
-L2794 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ 
+L2794 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ NULL
 L2795 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ NULL
 L2796 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Is Romania a semi-presidential democratic republic where executive functions are shared between the president and the prime minister ?
 L2797 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ Yes
@@ -2915,7 +2915,7 @@ L2913 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ British East India Company
 L2914 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Who did Sir Thomas Stamford Raffles work for?
 L2915 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ NULL
 L2916 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ When was Lee Kuan Yew prime minister of Singapore?
-L2917 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++
+L2917 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ NULL
 L2918 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ When was Lee Kuan Yew prime minister of Singapore?
 L2919 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ NULL
 L2920 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ What is the punishment for first-degree murder?
@@ -3181,11 +3181,11 @@ L3179 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ He accepted the theory that 
 L3180 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Who achieved international fame as the leading Union general in the American Civil War?
 L3181 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ Grant
 L3182 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Grant was elected president as a Republican in what year?
-L3183 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++
+L3183 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ NULL
 L3184 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Who took a hard line that reduced violence by groups like the Ku Klux Klan?
 L3185 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ Grant
 L3186 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ When did he vote for democrat james buchanan?
-L3187 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++
+L3187 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ NULL
 L3188 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Who did President Lincoln promote of major general in the regular army, effective July 4?
 L3189 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ Grant
 L3190 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Was Grant elected president as a Republican?
@@ -3263,7 +3263,7 @@ L3261 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ 176.215 km©÷
 L3262 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ How many square kilometres of continental land is Uruguay?
 L3263 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ 176,214 square kilometres
 L3264 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ How much of the population is of white European descent?
-L3265 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++
+L3265 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ NULL
 L3266 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ How much of the population is of white European descent?
 L3267 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ Approximately 88% of its population are of prevalently white European descent.
 L3268 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Why was the capital of Uruguay founded?
@@ -3465,15 +3465,15 @@ L3463 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ yes
 L3464 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Was the Italian 10.000 lira banknote created before the euro?
 L3465 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ yes
 L3466 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ For how many years did Alessandro Volta live?
-L3467 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++
+L3467 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ NULL
 L3468 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Did Alessandro Volta live to be 80 years old?
 L3469 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ no
 L3470 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ What was Alessandro Volta`s profession?
 L3471 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ physisist
 L3472 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ How old was Alessandro Volta when he died?
-L3473 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++
+L3473 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ NULL
 L3474 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ How many years ago was it when Volta married the daughter of Count Ludovico Peregrini , Teresa , with whom he raised three sons?
-L3475 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++
+L3475 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ NULL
 L3476 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Is the electrolyte sulphuric acid?
 L3477 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ Yes
 L3478 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Is volta buried in the city  of Como?
@@ -3527,9 +3527,9 @@ L3525 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ 6.02214199x10 23
 L3526 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ What is Avogadro's number?
 L3527 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ 6.02214199x10 23
 L3528 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ In what year did Avogadro stop teaching at Turin University?
-L3529 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++
+L3529 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ NULL
 L3530 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ In what year did Avogadro stop teaching at Turin University?
-L3531 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++
+L3531 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ NULL
 L3532 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ What subject did Avogadro study first?
 L3533 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ ecclesiastical law
 L3534 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ What subject did Avogadro study first?
@@ -3539,7 +3539,7 @@ L3537 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ Turin
 L3538 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ What was Amedeo Avogadro`s profession?
 L3539 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ professor of physics
 L3540 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ How many years ago was it when he became a professor of physics at the University of Turin?
-L3541 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++
+L3541 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ NULL
 L3542 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ What is Amedeo Avogadro`s first name?
 L3543 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ Amedeo
 L3544 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ What is Amedeo Avogadro`s last name?
@@ -3571,9 +3571,9 @@ L3569 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ A person.
 L3570 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Where is Amedeo Avogadro from?
 L3571 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ Italy.
 L3572 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ When did Anders Celcius publish his observations on the aurora borealis?
-L3573 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++
+L3573 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ NULL
 L3574 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ When did Anders Celcius publish his observations on the aurora borealis?
-L3575 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++
+L3575 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ NULL
 L3576 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ What did Anders Celsius determine about the boiling of water?
 L3577 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ He determined the dependence of the boiling of water with atmospheric pressure.
 L3578 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ What did Anders Celsius determine about the boiling of water?
@@ -3593,11 +3593,11 @@ L3591 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ Uppsala, Sweden
 L3592 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Whad did Celsius report in his paper "Observations of two persistent degrees on a thermometer"?
 L3593 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ the freezing point is independent of latitude
 L3594 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ How old was Celsius when he died?
-L3595 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++
+L3595 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ NULL
 L3596 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ How old was Celsius when he died?
-L3597 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++
+L3597 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ NULL
 L3598 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ What is temperature would water have to be to be halfway between its standard boiling and freezing point?
-L3599 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++
+L3599 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ NULL
 L3600 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ What is the difference between Celsius' original temperature scale and the one we use today?
 L3601 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ The scale was reversed by Carolus Linnaeus. 
 L3602 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ What is the difference between Celsius' original temperature scale and the one we use today?
@@ -3605,7 +3605,7 @@ L3603 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ scale was reversed
 L3604 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ What was Anders Celsius`s profession?
 L3605 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ professor of astronomy
 L3606 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ How old was Anders Celsius when he died?
-L3607 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++
+L3607 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ NULL
 L3608 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ What is Anders Celsius`s last name?
 L3609 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ Celsius
 L3610 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Was celsius born in Uppsala  in Sweden?
@@ -3675,17 +3675,17 @@ L3673 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ yes
 L3674 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Are hutongs disappearing?
 L3675 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ yes
 L3676 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ When did Beijing host the Olympic Games?
-L3677 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++
+L3677 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ NULL
 L3678 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ When was the An Shi Rebellion launched?
 L3679 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ in 755 AD
 L3680 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ In 1949, where did Communist forces enter without a fight?
 L3681 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ Beiping
 L3682 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ When did Yuan Shikai die?
-L3683 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++
+L3683 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ NULL
 L3684 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Where does air pollution in Beijing come from?
 L3685 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ surrounding cities and provinces
 L3686 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ As of August 1st, 2006, how many trains stop daily at the Beijing Railway Station or the Beijing West Railway Station?
-L3687 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++
+L3687 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ NULL
 L3688 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ What is the name of a university (or similar institution for imparting higher education) in Beijing?
 L3689 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ Tsinghua University
 L3690 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Are famous middle  schools  in Beijing :?
@@ -3817,19 +3817,19 @@ L3815 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ Coulomb's Law
 L3816 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ When did Charles-Augustin de Coulomb retire to a small estate he possessed at Blois?
 L3817 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ Charles-Augustin de Coulomb retired to a small estate he possessed at Blois on the outbreak of the revolution in 1789.
 L3818 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ When did Charles-Augustin de Coulomb retire to a small estate he possessed at Blois?
-L3819 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++
+L3819 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ NULL
 L3820 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ If Charles-Augustin de Coulomb was alive today, how old would he have been?
-L3821 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++
+L3821 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ NULL
 L3822 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ For how many years did Charles-Augustin de Coulomb live?
-L3823 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++
+L3823 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ NULL
 L3824 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Did Charles-Augustin de Coulomb live to be 80 years old?
 L3825 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ no
 L3826 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ How old was Charles-Augustin de Coulomb when he died?
-L3827 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++
+L3827 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ NULL
 L3828 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ How many years ago did he resign his appointment as intendant de eaux et fontaine ?
-L3829 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++
+L3829 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ NULL
 L3830 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ How many years ago did Charles-Augustin de Coulomb die?
-L3831 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++
+L3831 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ NULL
 L3832 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Was The SI  unit  of charge , the  coulomb , named after him?
 L3833 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ yes
 L3834 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Was coulomb born in AngoulÃªme,  France ,  to a well  to do  family?
@@ -3913,9 +3913,9 @@ L3911 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ Denmark
 L3912 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Copenhagen is the capital of what country?
 L3913 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ Denmark
 L3914 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ What is the population of Copenhagen?
-L3915 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++
+L3915 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ NULL
 L3916 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ What is the population of Copenhagen?
-L3917 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++
+L3917 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ NULL
 L3918 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ What transnational bridge was completed in 2000?
 L3919 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ Oresund Bridge
 L3920 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ What transnational bridge was completed in 2000?
@@ -4013,9 +4013,9 @@ L4011 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ Yes
 L4012 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ How much area does Dhaka cover?
 L4013 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ 1462.60 square kilometers
 L4014 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ How many people did the 1970 Bhola cyclone kill?
-L4015 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++
+L4015 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ NULL
 L4016 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ When is the end of the independence war of Bangladesh?
-L4017 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++
+L4017 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ NULL
 L4018 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Did the Mughals arrive in Dhaka?
 L4019 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ Yes
 L4020 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Is University of Dhaka older than the Dhaka College?
@@ -4037,7 +4037,7 @@ L4035 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ yes
 L4036 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Is the syntax of German different with different rules?
 L4037 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ yes
 L4038 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Is it true that semantics causes a number of false friends?
-L4039 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++
+L4039 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ NULL
 L4040 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Here , are all syllables unstressed , except the syllables/words best and done , which are stressed ?
 L4041 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ yes
 L4042 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Are many words describing the navy , types of ships , and other objects or activities on the water of dutch origin ?
@@ -4061,7 +4061,7 @@ L4059 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ A flute player, a flautist o
 L4060 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ What do we refer musicians who play flute?
 L4061 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ A flute player, a flautist, or a flutist
 L4062 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ When was a three-holed flute made from a mammoth tusk discovered?
-L4063 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++
+L4063 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ NULL
 L4064 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ When was a three-holed flute made from a mammoth tusk discovered?
 L4065 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ In 2004
 L4066 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ When did the tin whistle first appear?
@@ -4145,7 +4145,7 @@ L4143 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ NULL
 L4144 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Can the palatal nasal occur in word initial position ( e.g ?
 L4145 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ NULL
 L4146 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ How many years ago was the Luther Bible by Martin Luther printed?
-L4147 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++
+L4147 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ NULL
 L4148 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Is german an inflected  language?
 L4149 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ yes
 L4150 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ In Switzerland, is ÃŸ used at all?
@@ -4217,17 +4217,17 @@ L4215 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ Yes
 L4216 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Was Henri Becquerel a French physicist?
 L4217 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ Yes
 L4218 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ In what year did Henri Becquerel die?
-L4219 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++
+L4219 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ NULL
 L4220 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ In what year did Henri Becquerel die?
-L4221 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++
+L4221 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ NULL
 L4222 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Where was Henri Becquerel born?
 L4223 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++  Paris 
 L4224 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Where was Henri Becquerel born?
 L4225 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ Paris
 L4226 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ In what year did Henri Becquerel win the Nobel Prize in Physics?
-L4227 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++
+L4227 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ NULL
 L4228 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ In what year did Henri Becquerel win the Nobel Prize in Physics?
-L4229 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++
+L4229 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ NULL
 L4230 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Was Henri Becquerel first in his family to occupy the physics chair at the Museum National d'Histoire Naturelle?
 L4231 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ No
 L4232 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Was Henri Becquerel first in his family to occupy the physics chair at the Museum National d'Histoire Naturelle?
@@ -4241,17 +4241,17 @@ L4239 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ No
 L4240 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Did Henri Becquerel intentionally discover radioactivity?
 L4241 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ He discovered it accidentally
 L4242 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ If Henri Becquerel was alive today, how old would he have been?
-L4243 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++
+L4243 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ NULL
 L4244 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ For how many years did Henri Becquerel live?
-L4245 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++
+L4245 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ NULL
 L4246 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Did Henri Becquerel live to be 80 years old?
 L4247 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ no
 L4248 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ What was Henri Becquerel`s profession?
 L4249 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ physisist
 L4250 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ How old was Henri Becquerel when he died?
-L4251 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++
+L4251 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ NULL
 L4252 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ How many years ago was it when he became the third in his family to occupy the physics chair at the Musum National d`Histoire Naturelle?
-L4253 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++
+L4253 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ NULL
 L4254 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ In 1908, the year  of his death, was Becquerel elected Permanent Secretary  of the AcadÃ©mie  des  Sciences?
 L4255 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ Yes
 L4256 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ When was Henri Becquerel born?
@@ -4361,15 +4361,15 @@ L4359 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ Agnus Muirhead
 L4360 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ What was the name of James Watt's mother?
 L4361 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ Agnes Muirhead
 L4362 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ How many of James Watt's children did not live to adulthood?
-L4363 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++
+L4363 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ NULL
 L4364 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ How many of James Watt's children did not live to adulthood?
-L4365 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++
+L4365 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ NULL
 L4366 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ James Watt ranked first among how many people in Charles Murray's survey of historiometry?
-L4367 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++
+L4367 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ NULL
 L4368 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ James Watt ranked first among how many people in Charles Murray's survey of historiometry?
-L4369 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++
+L4369 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ NULL
 L4370 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ In what year did James travel to Lodon to study instrument-making?
-L4371 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++
+L4371 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ NULL
 L4372 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ For how many years of James Watt's life was his mother alive?
 L4373 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ 17 years
 L4374 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ What is James Watt most famous for?
@@ -4551,13 +4551,13 @@ L4549 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ Newington Butts
 L4550 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ What was Michael Faraday`s profession?
 L4551 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ chemist and physicist
 L4552 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ How many years ago did Faraday report on the first synthesis of compound make from carbon and chlorine , c 2 h 6 and c 2 h 4 ?
-L4553 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++
+L4553 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ NULL
 L4554 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ How many years ago was it when he discovered the phenomenon that he named diamagnetism , and what is now called the Faraday effect?
-L4555 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++
+L4555 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ NULL
 L4556 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ How many years ago was it when Faraday wrote a letter to The Times on the subject of the foul condition of the River Thames , which resulted in an oft-reprinted cartoon in Punch?
-L4557 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++
+L4557 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ NULL
 L4558 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ How many years ago was it when he discovered that the optical properties of gold colloids differed from those of the corresponding bulk metal?
-L4559 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++
+L4559 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ NULL
 L4560 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Was education another area  of service  for Faraday?
 L4561 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ yes
 L4562 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Was faraday `s  earliest  chemical  work as an assistant  to Davy?
@@ -4607,9 +4607,9 @@ L4605 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ Yes
 L4606 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Was Tesla hired by Edison?
 L4607 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ yes
 L4608 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ When did Tesla demonstrate wireless communication (radio)?
-L4609 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++
+L4609 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ NULL
 L4610 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ When did Tesla demonstrate wireless communication (radio)?
-L4611 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++
+L4611 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ NULL
 L4612 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ What is the SI unit measuring magnetic flux density or magnetic induction?
 L4613 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ the tesla
 L4614 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ What is the SI unit measuring magnetic flux density or magnetic induction?
@@ -4635,7 +4635,7 @@ L4633 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ Yes
 L4634 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Do small tremors occur in Ottawa?
 L4635 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ Yes
 L4636 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ What is Ottawa's population?
-L4637 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++
+L4637 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ NULL
 L4638 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ What are Ottawa's primary industries?
 L4639 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ Logging and lumber
 L4640 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ What is Ottawa's junior ice hockey team?
@@ -4675,9 +4675,9 @@ L4673 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ Bytown
 L4674 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ What was Ottawa's name in 1850?
 L4675 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ Bytown
 L4676 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Based on the average, in what year will the next small tremor occur in Ottawa?
-L4677 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++
+L4677 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ NULL
 L4678 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Based on the average, in what year will the next small tremor occur in Ottawa?
-L4679 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++
+L4679 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ NULL
 L4680 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Where were immigrants from in the 1800s?
 L4681 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ Irish
 L4682 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Where were immigrants from in the 1800s?
@@ -4939,7 +4939,7 @@ L4937 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ Yes
 L4938 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ About how many square kilometers would be needed to house 3 female tigers?
 L4939 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ 60 square kilometers
 L4940 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ About how many square kilometers would be needed to house 3 female tigers?
-L4941 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++
+L4941 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ NULL
 L4942 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Would a tiger be likely to feedon smaller animals, such as mice?
 L4943 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ Yes
 L4944 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Did the predecessors to trumpets have valves?
@@ -5005,9 +5005,9 @@ L5003 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ Yes
 L5004 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Are harvesting wild turtles legal anywhere?
 L5005 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ yes
 L5006 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Approximately how many species of Testudines are alive today?
-L5007 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++
+L5007 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ NULL
 L5008 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Approximately how many species of Testudines are alive today?
-L5009 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++
+L5009 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ NULL
 L5010 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Where is harvesting wild turtles legal?
 L5011 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ Florida
 L5012 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Where is harvesting wild turtles legal?
@@ -5047,7 +5047,7 @@ L5045 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ a luthier
 L5046 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ How many strings does a violin usually have?
 L5047 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ four
 L5048 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ How many strings does a violin usually have?
-L5049 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++
+L5049 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ NULL
 L5050 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ What are violins made of?
 L5051 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ different types of wood
 L5052 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ What are violins made of?
@@ -5109,7 +5109,7 @@ L5107 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ Yes
 L5108 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ When did Alessandro Volta improve  and popularize the electrophorus?
 L5109 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ Alessandro Volta improved and popularized the electrophorus in 1775.
 L5110 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ When did Alessandro Volta improve  and popularize the electrophorus?
-L5111 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++
+L5111 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ NULL
 L5112 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ How long was Alessandro Volta a professor at the University of Pavia?
 L5113 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ Alessandro Volta was a professor at the University of Pavia for almost 25 years.
 L5114 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ How long was Alessandro Volta a professor at the University of Pavia?
@@ -5135,7 +5135,7 @@ L5133 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ Como
 L5134 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Where was Volta born?
 L5135 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ Como, Italy
 L5136 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ When did Volta retire?
-L5137 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++
+L5137 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ NULL
 L5138 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ When did Volta retire?
 L5139 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ In 1819.
 L5140 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ A year before improving and popularizing the electrophorus, what did Volta become?
@@ -5165,7 +5165,7 @@ L5163 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ Yes
 L5164 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Was Volta made a count by Napoleon in 1810?
 L5165 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ Yes, Volta was made a count by Napoleon in 1810.
 L5166 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ In what year did he become a professor of physics at the Royal School in Como?
-L5167 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++
+L5167 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ NULL
 L5168 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Was Avogadro a  professor at the University of Turin?
 L5169 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ Yes
 L5170 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Was Avogadro a  professor at the University of Turin?
@@ -5509,7 +5509,7 @@ L5507 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ Yes.
 L5508 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ How old was Pascal when he lost his mother?
 L5509 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ at the age of three
 L5510 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ How old was Pascal when he lost his mother?
-L5511 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++
+L5511 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ NULL
 L5512 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Who was Pascal's younger sister?
 L5513 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ Jacqueline
 L5514 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Who was Pascal's younger sister?
@@ -5519,7 +5519,7 @@ L5517 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ Two basic influences led him
 L5518 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ What led Pascal to his religious conversion?
 L5519 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ sickness and Jansenism
 L5520 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ How old was Pascal when he died?
-L5521 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++
+L5521 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ NULL
 L5522 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ How old was Pascal when he died?
 L5523 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ 1662-08-19.
 L5524 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Did Pascal write about cycloid before 1658?
@@ -5535,7 +5535,7 @@ L5533 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ Yes, it was
 L5534 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Who died the next morning?
 L5535 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ Pascal.
 L5536 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ When did his father die?
-L5537 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++
+L5537 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ NULL
 L5538 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ When did his father die?
 L5539 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ His father died in 1651.
 L5540 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Was he a child prodigy who was educated by his father, a civil servant?
@@ -5677,7 +5677,7 @@ L5675 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ Standard Mandarin
 L5676 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ How many head entries for character definitions does the Zhonghua Zihai &#20013;&#21326;&#23383;&#28023; (1994) contain?
 L5677 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ 85,568 head entries
 L5678 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ How many head entries for character definitions does the Zhonghua Zihai &#20013;&#21326;&#23383;&#28023; (1994) contain?
-L5679 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++
+L5679 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ NULL
 L5680 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ What does the PRC government classify as literacy amongst workers?
 L5681 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ knowledge of 2,000 characters
 L5682 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ What does the PRC government classify as literacy amongst workers?
@@ -6057,7 +6057,7 @@ L6055 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ 7th century BC
 L6056 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ When did concert flutes begin appearing in concert ensembles?
 L6057 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ the 16th-century
 L6058 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ When did concert flutes begin appearing in concert ensembles?
-L6059 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++
+L6059 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ NULL
 L6060 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ How many main varieties of Indian flutes are currently used?
 L6061 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ two
 L6062 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ How many main varieties of Indian flutes are currently used?
@@ -6095,9 +6095,9 @@ L6093 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ one to two weeks after birth
 L6094 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ How long does it take for the panda cubs skin to turn gray?
 L6095 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ One to two weeks
 L6096 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ How many different names did Chinese writings give to the panda?
-L6097 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++
+L6097 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ NULL
 L6098 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ How many different names did Chinese writings give to the panda?
-L6099 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++
+L6099 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ NULL
 L6100 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ What foods do pandas eat?
 L6101 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ bamboo
 L6102 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ What foods do pandas eat?
@@ -6127,9 +6127,9 @@ L6125 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ a few mountain ranges in cen
 L6126 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Where do Giant Pandas live?
 L6127 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ Sichuan province, Shaanxi and Gansu provinces
 L6128 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ When was the Giant Panda's genome sequenced?
-L6129 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++
+L6129 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ NULL
 L6130 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ When was the Giant Panda's genome sequenced?
-L6131 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++
+L6131 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ NULL
 L6132 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ How many subspecies of the Giant Panda are there?
 L6133 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ Two
 L6134 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ How many subspecies of the Giant Panda are there?
@@ -6231,9 +6231,9 @@ L6229 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ Pierre and Marie Curie
 L6230 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Whom did he share the Nobel Prize with?
 L6231 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ Pierre and Marie Curie
 L6232 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ When did he die?
-L6233 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++
+L6233 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ NULL
 L6234 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ When did he die?
-L6235 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++
+L6235 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ NULL
 L6236 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ What is the SI unit for radioactivity called?
 L6237 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ becquerel
 L6238 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ What is the SI unit for radioactivity called?
@@ -6301,9 +6301,9 @@ L6299 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ Woolsthorpe Manor in Woolsth
 L6300 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Where was Isaac Newton born?
 L6301 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ Woolsthorpe Manor in Woolsthorpe-by-Colsterworth
 L6302 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ When was the Principia published?
-L6303 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++
+L6303 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ NULL
 L6304 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ When was the Principia published?
-L6305 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++
+L6305 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ NULL
 L6306 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Where is there a Newton statue on display?
 L6307 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ Oxford University Museum of Natural History 
 L6308 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Where is there a Newton statue on display?
@@ -6617,7 +6617,7 @@ L6615 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ 42 months
 L6616 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ How long was Kuala Lumpur occupied by the Japanese?
 L6617 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ NULL
 L6618 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ How many seasons does Kuala Lumpur experience?
-L6619 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++
+L6619 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ NULL
 L6620 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ How many seasons does Kuala Lumpur experience?
 L6621 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ NULL
 L6622 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ When were the colonial buildings in Kuala Lumpur constructed?
@@ -6637,7 +6637,7 @@ L6635 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ Yes
 L6636 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ is it home to the parliament of malaysia?
 L6637 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ NULL
 L6638 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ when did kuala lumpur become a federal territory of malaysia?
-L6639 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++
+L6639 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ NULL
 L6640 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ when did kuala lumpur become a federal territory of malaysia?
 L6641 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ NULL
 L6642 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ What is the city's population?
@@ -6667,7 +6667,7 @@ L6665 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ Yes, Leonardo da Vinci was b
 L6666 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Who left Verroccio's studio?
 L6667 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ Leonardo da Vinci left Verroccio's studio.
 L6668 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ When did Baldassare Castiglione, author of Il Cortegiano ( " The Courtier " ), write?
-L6669 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++
+L6669 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ NULL
 L6670 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ When did he flee to Venice?
 L6671 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ In 1499.
 L6672 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Was Leonardo a contemporary of Botticelli_x0001_ Domenico Ghirlandaio as well as Perugino?
@@ -6693,9 +6693,9 @@ L6691 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ yes
 L6692 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Do lobsters have blue blood?
 L6693 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ Yes
 L6694 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ How many legs do lobsters have?
-L6695 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++
+L6695 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ NULL
 L6696 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ How many legs do lobsters have?
-L6697 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++
+L6697 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ NULL
 L6698 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Where are lobsters found?
 L6699 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ In all oceans.
 L6700 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Where are lobsters found?
@@ -6849,7 +6849,7 @@ L6847 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ Melburnian
 L6848 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ What is a resident of Melbourne known as?
 L6849 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ A "Melburnian".
 L6850 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ When was Melbourne officially declared as a city?
-L6851 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++
+L6851 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ NULL
 L6852 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ When was Melbourne officially declared as a city?
 L6853 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ In 1847.
 L6854 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ How many sister cities does the City of Melbourne have?
@@ -6943,7 +6943,7 @@ L6941 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ It is not clear.
 L6942 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ When did Filippo Strozzi sell it to Francis I?
 L6943 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ In 1529.
 L6944 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ When was his house demolished?
-L6945 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++
+L6945 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ NULL
 L6946 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Was Michelangelo_x0001_s mother Francesca di Neri del Miniato di Siena?
 L6947 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ yes
 L6948 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Give an example of the most renowned works of the Renaissance. 
@@ -7039,7 +7039,7 @@ L7037 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ About 3 million
 L7038 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ What is the current estimated population of Nairobi?
 L7039 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ NULL
 L7040 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ In what year was Nairobi founded?
-L7041 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++
+L7041 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ NULL
 L7042 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ In what year was Nairobi founded?
 L7043 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ NULL
 L7044 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Which embassy in Nairobi was bombed in August 1998?
@@ -7089,7 +7089,7 @@ L7087 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ Yes
 L7088 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ When did Nikola Tesla appear on the cover of Time Magazine?
 L7089 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ On Tesla's 75th birthday in 1931, Time magazine put him on its cover.
 L7090 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ When did Nikola Tesla appear on the cover of Time Magazine?
-L7091 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++
+L7091 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ NULL
 L7092 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Who became adversaries with Nikola Tesla?
 L7093 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ Nikola Tesla became adversaries with Edison.
 L7094 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Who became adversaries with Nikola Tesla?
@@ -7105,7 +7105,7 @@ L7103 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ Yes
 L7104 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ How many siblings did Nikola Tesla have?
 L7105 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ Nikola Tesla had four siblings.
 L7106 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ How many siblings did Nikola Tesla have?
-L7107 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++
+L7107 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ NULL
 L7108 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Was Nikola Tesla a vegetarian?
 L7109 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++  In his later years Tesla became a vegetarian.
 L7110 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Was Nikola Tesla a vegetarian?
@@ -7127,7 +7127,7 @@ L7125 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ The Austrian Polytechnic in 
 L7126 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Where did Tesla study electrical engineering?
 L7127 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ NULL
 L7128 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ When did Tesla receive his last patent?
-L7129 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++
+L7129 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ NULL
 L7130 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ When did Tesla receive his last patent?
 L7131 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ NULL
 L7132 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ What languages did Tesla speak?
@@ -7151,7 +7151,7 @@ L7149 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ Rockwell
 L7150 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Who spent the next 10 years painting for Look magazine?
 L7151 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ Norman Rockwell.
 L7152 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ When was his last painting for the Post published?
-L7153 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++
+L7153 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ NULL
 L7154 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ When did Rockwell marry his first wife, Irene O'Connor,?
 L7155 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ In 1916.
 L7156 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Did Norman Rockwell spend the winter months as artist-in-residence at Otis College of Art as well as Design?
@@ -7223,7 +7223,7 @@ L7221 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ Don José Ruiz y Blasco was 
 L7222 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Who was not long in finding another lover, Jacqueline Roque?
 L7223 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ Picasso.
 L7224 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ When did Picasso make his first trip to Paris?
-L7225 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++
+L7225 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ NULL
 L7226 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Give an example of the most comprehensive records extant of any major artists beginnings. 
 L7227 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ Museu Picasso
 L7228 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Is in the 1996 movie Surviving Picasso Picasso played by actor Anthony Hopkins?
@@ -7253,9 +7253,9 @@ L7251 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ the sostenuto pedal.
 L7252 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ What is the middle pedal called on grand pianos?
 L7253 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ sostenuto pedal
 L7254 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ How many black keys do modern pianos have?
-L7255 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++
+L7255 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ NULL
 L7256 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ How many black keys do modern pianos have?
-L7257 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++
+L7257 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ NULL
 L7258 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ What is the sustain pedal called?
 L7259 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ The pedal
 L7260 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ What is the sustain pedal called?
@@ -7401,7 +7401,7 @@ L7399 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ One way is through the Mosco
 L7400 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Who laid down the Peter and Paul Fortress?
 L7401 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ Peter the Great 
 L7402 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ When was the 7th symphony premiered?
-L7403 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++
+L7403 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ NULL
 L7404 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Has Equestrianism been a long tradition, popular among the Tsars and aristocracy?
 L7405 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ yes
 L7406 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Give an example of the largest stadiums anywhere in the world, and the home to FC Zenit St. Petersburg in 1950-1993 and 1995. 
@@ -7489,7 +7489,7 @@ L7487 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ U.S.
 L7488 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Who laid out a street plan for the expanded settlement?
 L7489 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ William Richardson and Alcalde Francisco de Haro.
 L7490 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ When was a 43-acre Mission Bay campus opened?
-L7491 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++
+L7491 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ NULL
 L7492 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ When did it sign on the air?
 L7493 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ In 1941.
 L7494 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Give an example of the largest two-year community colleges in the country. 
@@ -7531,7 +7531,7 @@ L7529 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ sixteen
 L7530 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ In what year did Germany seize Tanganyika?
 L7531 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ Germany seized Tanganyika in 1886.
 L7532 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ In what year did Germany seize Tanganyika?
-L7533 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++
+L7533 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ NULL
 L7534 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Which is the sub-Saharan indigenous language with the greatest number of speakers?
 L7535 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ Hausa of West Africa is the sub-Saharan indigenous language with the greatest number of speakers.
 L7536 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Which is the sub-Saharan indigenous language with the greatest number of speakers?
@@ -7545,19 +7545,19 @@ L7543 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ No.
 L7544 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Does Swedish use the perfect participle to form the present perfect tense?
 L7545 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ No
 L7546 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ How many Swedish speakers were reported in Canada in 2001?
-L7547 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++
+L7547 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ NULL
 L7548 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ How many Swedish speakers were reported in Canada in 2001?
 L7549 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ There are 16,915 reported Swedish speakers in Canada.
 L7550 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ How many letters are in the basic Latin alphabet?
-L7551 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++
+L7551 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ NULL
 L7552 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ How many letters are in the basic Latin alphabet?
-L7553 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++
+L7553 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ NULL
 L7554 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ When did a standard and common language become available to all Swedes?
 L7555 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ In the 20th Century.
 L7556 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ When did a standard and common language become available to all Swedes?
 L7557 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ It was during the 20th century that a common, standardized national language became available to all Swedes.
 L7558 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ When did the Soviet military forces occupy Estonia?
-L7559 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++
+L7559 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ NULL
 L7560 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ When did the Soviet military forces occupy Estonia?
 L7561 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ In 1944.
 L7562 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ What are the differences between English and Swedish pronouns?
@@ -7875,7 +7875,7 @@ L7873 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ Dave Matthews Band features 
 L7874 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Regarding this topic, what did Antonio Stradivari do?
 L7875 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ Antonio Stradivari made violins.
 L7876 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ When did Charles IX order Amati to construct 24 violins for him?
-L7877 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++
+L7877 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ NULL
 L7878 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Is a string first tuned to a standard pitch?
 L7879 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ Yes.
 L7880 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Is each node at an integer division of the string?
@@ -7985,7 +7985,7 @@ L7983 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ Skins
 L7984 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ What areas do the Grevy's Zebras inhabit?
 L7985 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ semi-arid grasslands of Ethiopia and northern Kenya
 L7986 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ What areas do the Grevy's Zebras inhabit?
-L7987 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++
+L7987 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ NULL
 L7988 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Which species of zebra is known as the common zebra?
 L7989 +++$+++ u1 +++$+++ m0 +++$+++ CAMERON +++$+++ Plains Zebra (Equus quagga, formerly Equus burchelli)
 L7990 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Which species of zebra is known as the common zebra?
